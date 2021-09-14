@@ -2,7 +2,7 @@ import requests
 
 
 def test_respond():
-    url = "http://0.0.0.0:8088/respond"
+    url = "http://0.0.0.0:8083/respond"
 
     request_data = {"image":"./input/example-images/Example-images/ex24.jpg",
             "east":"./input/east_text_detection.pb",
