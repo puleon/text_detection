@@ -1,4 +1,4 @@
-# Zero-Shot Detection
+# Text Detection
 ## Baseline
 ### Build & Run
 ```shell
